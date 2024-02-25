@@ -1,0 +1,59 @@
+h1 {
+    color: rgb(57, 192, 140);
+}
+body{
+    background-color: rgb(243, 243, 215);
+}
+body{
+  display: left ;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  background:rgb(243, 243, 215);
+
+}
+.inputs{
+  margin: 20px 0 27px;
+}
+.inputs input{
+  width: 70%;
+  height: 60px;
+  outline: none;
+  font-size: 30px;
+  padding: 0 20px;
+  border-radius: 10px;
+  border: 1px solid #999;
+  text-align: center;
+
+
+}
+
+  
+p{
+  font-size: 124%
+}
+
+.inputs input:focus{
+  box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+
+
+}
+::placeholder{
+  color:rgb(57, 192, 140)
+}
+
+input[id="reponse"]{
+  width: 50%;
+  height: 50px;
+  background-color:white;
+  padding: 0 50px;
+  font-size: 20px;
+  text-align: center;
+  
+  
+}
+
+
+
+
+
